@@ -1,6 +1,13 @@
 # IA_trab_final
 
+Inteligência Artificial - Mestrado Profissional em Computação Aplicada
+Prof. Dr. Jefferson O. Andrade
+
+Campus Serra - Instituto Federal do Espírito Santo
+2019/01
+
 Trabalho Final de IA
+Aluno: Lúcio Antônio Stange Venturim
 
 Este trabalho se propõe a utilizar o modelo desenvolvido pelo aluno do mestrado em Engenharia de Controle e Automação, Rodrigo Piol Capucho, em sua dissertação de mestrado de título “Sistema De Reconhecimento De Gestos E Sequencias De Movimento De Uma Mão A Partir De Sensores Inerciais Para O Controle De Uma Cadeira De Rodas Robotizada Usando Redes Neurais Convolutivas”, com técnicas diferentes das aplicadas. O trabalho do aluno tem como proposta utilizar técnicas de reconhecimento de padrões para detectar automaticamente um gesto e atribui-lo a uma classe de controle.
 
